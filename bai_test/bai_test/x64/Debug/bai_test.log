@@ -1,0 +1,11 @@
+﻿  ham_qsort.cpp
+D:\lap_trinh_c\bai_test\bai_test\ham_qsort.cpp(25,8): error C2131: expression did not evaluate to a constant
+  D:\lap_trinh_c\bai_test\bai_test\ham_qsort.cpp(25,8):
+  failure was caused by a read of a variable outside its lifetime
+  D:\lap_trinh_c\bai_test\bai_test\ham_qsort.cpp(25,8):
+  see usage of 'n'
+  
+D:\lap_trinh_c\bai_test\bai_test\ham_qsort.cpp(35,10): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int [n]'
+D:\lap_trinh_c\bai_test\bai_test\ham_qsort.cpp(35,10): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'int [n]'
+D:\lap_trinh_c\bai_test\bai_test\ham_qsort.cpp(24,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\lap_trinh_c\bai_test\bai_test\ham_qsort.cpp(28,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

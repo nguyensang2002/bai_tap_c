@@ -1,0 +1,6 @@
+﻿  tinh_toan_trong_xau_ky_tu.cpp
+D:\lap_trinh_c\tinh_toan_trong_xau_ky_tu\tinh_toan_trong_xau_ky_tu\tinh_toan_trong_xau_ky_tu.cpp(11,10): warning C4477: 'scanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 2 has type 'size_t'
+  D:\lap_trinh_c\tinh_toan_trong_xau_ky_tu\tinh_toan_trong_xau_ky_tu\tinh_toan_trong_xau_ky_tu.cpp(11,10):
+  this argument is used as a buffer size
+  
+  tinh_toan_trong_xau_ky_tu.vcxproj -> D:\lap_trinh_c\tinh_toan_trong_xau_ky_tu\x64\Debug\tinh_toan_trong_xau_ky_tu.exe

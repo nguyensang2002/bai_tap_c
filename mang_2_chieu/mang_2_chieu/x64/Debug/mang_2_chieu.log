@@ -1,0 +1,3 @@
+﻿  mang_2_chieu.cpp
+D:\lap_trinh_c\mang_2_chieu\mang_2_chieu\mang_2_chieu.cpp(37,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  mang_2_chieu.vcxproj -> D:\lap_trinh_c\mang_2_chieu\x64\Debug\mang_2_chieu.exe

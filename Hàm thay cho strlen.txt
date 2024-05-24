@@ -1,0 +1,29 @@
+size_t my_strlen(const char *str) { // Đếm giá trị chuỗi thay cho strlen 
+    const char *s;
+    for (s = str; *s; ++s);
+    return (s - str);
+}
+
+
+-----Hàm my_strlen:-----------
+
+
+size_t my_strlen(const char *str) {
+
+Đây là khai báo của hàm my_strlen, một hàm tùy chỉnh được viết để tính độ dài của một chuỗi ký tự.
+size_t là kiểu dữ liệu được sử dụng cho kích thước của đối tượng trong C, thường được sử dụng cho các hàm như strlen vì nó có thể chứa kích thước lớn nhất của bất kỳ đối tượng nào trên hệ thống.
+const char *str là con trỏ đến một chuỗi ký tự đầu vào. Sử dụng const ở đây bảo vệ dữ liệu không bị thay đổi trong quá trình tính toán.
+
+
+    const char *s;
+
+Đây là một con trỏ s được sử dụng để duyệt qua chuỗi ký tự.
+
+    for (s = str; *s; ++s);
+
+Đây là vòng lặp for được sử dụng để duyệt qua từng ký tự trong chuỗi.
+Vòng lặp này sẽ chạy cho đến khi giá trị của *s trở thành false. Trong C, một con trỏ khi trỏ đến ký tự kết thúc chuỗi ('\0') được coi là false, nghĩa là vòng lặp sẽ dừng khi nó đến cuối chuỗi.
+
+    return (s - str);
+
+Khi vòng lặp kết thúc, hàm trả về độ dài của chuỗi, được tính bằng cách lấy sự khác biệt giữa con trỏ s và con trỏ đầu tiên của chuỗi (str), với giả định rằng str chính là con trỏ đến phần tử đầu tiên của chuỗi.

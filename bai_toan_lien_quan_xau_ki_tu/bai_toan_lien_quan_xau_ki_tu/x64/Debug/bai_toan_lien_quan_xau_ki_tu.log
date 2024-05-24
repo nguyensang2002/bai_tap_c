@@ -1,0 +1,7 @@
+﻿  bai_toan_lien_quan_xau_ki_tu.cpp
+D:\lap_trinh_c\bai_toan_lien_quan_xau_ki_tu\bai_toan_lien_quan_xau_ki_tu\bai_toan_lien_quan_xau_ki_tu.cpp(43,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\lap_trinh_c\bai_toan_lien_quan_xau_ki_tu\bai_toan_lien_quan_xau_ki_tu\bai_toan_lien_quan_xau_ki_tu.cpp(75,10): warning C4477: 'scanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 2 has type 'size_t'
+  D:\lap_trinh_c\bai_toan_lien_quan_xau_ki_tu\bai_toan_lien_quan_xau_ki_tu\bai_toan_lien_quan_xau_ki_tu.cpp(75,10):
+  this argument is used as a buffer size
+  
+  bai_toan_lien_quan_xau_ki_tu.vcxproj -> D:\lap_trinh_c\bai_toan_lien_quan_xau_ki_tu\x64\Debug\bai_toan_lien_quan_xau_ki_tu.exe

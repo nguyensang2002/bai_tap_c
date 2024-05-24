@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\lap_trinh_c\\STRUCT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96899356-B637-4140-B55F-DB35B915EBDB}|STRUCT\\STRUCT.vcxproj|D:\\lap_trinh_c\\STRUCT\\STRUCT\\STRUCT.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{96899356-B637-4140-B55F-DB35B915EBDB}|STRUCT\\STRUCT.vcxproj|solutionrelative:STRUCT\\STRUCT.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "STRUCT.cpp",
+              "DocumentMoniker": "D:\\lap_trinh_c\\STRUCT\\STRUCT\\STRUCT.cpp",
+              "RelativeDocumentMoniker": "STRUCT\\STRUCT.cpp",
+              "ToolTip": "D:\\lap_trinh_c\\STRUCT\\STRUCT\\STRUCT.cpp",
+              "RelativeToolTip": "STRUCT\\STRUCT.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAADoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-07T05:10:44.199Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

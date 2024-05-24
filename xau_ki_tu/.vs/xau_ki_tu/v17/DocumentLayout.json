@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\lap_trinh_c\\xau_ki_tu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA2124E-D2AE-4505-9293-E0E61BA0B300}|xau_ki_tu\\xau_ki_tu.vcxproj|D:\\lap_trinh_c\\xau_ki_tu\\xau_ki_tu\\xau_ki_tu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5BA2124E-D2AE-4505-9293-E0E61BA0B300}|xau_ki_tu\\xau_ki_tu.vcxproj|solutionrelative:xau_ki_tu\\xau_ki_tu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA2124E-D2AE-4505-9293-E0E61BA0B300}|xau_ki_tu\\xau_ki_tu.vcxproj|C:\\PROGRAM FILES (X86)\\WINDOWS KITS\\10\\INCLUDE\\10.0.22621.0\\UCRT\\STDIO.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "stdio.h",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
+              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
+              "ViewState": "AQIAAEMEAAAAAAAAAAAAAEoEAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-05T14:24:31.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "xau_ki_tu.cpp",
+              "DocumentMoniker": "D:\\lap_trinh_c\\xau_ki_tu\\xau_ki_tu\\xau_ki_tu.cpp",
+              "RelativeDocumentMoniker": "xau_ki_tu\\xau_ki_tu.cpp",
+              "ToolTip": "D:\\lap_trinh_c\\xau_ki_tu\\xau_ki_tu\\xau_ki_tu.cpp",
+              "RelativeToolTip": "xau_ki_tu\\xau_ki_tu.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAADAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-05T14:17:06.751Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

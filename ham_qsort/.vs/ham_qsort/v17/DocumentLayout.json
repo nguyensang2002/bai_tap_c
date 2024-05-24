@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\lap_trinh_c\\ham_qsort\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70813342-1AEF-48A8-B471-939D26F5FC17}|ham_qsort\\ham_qsort.vcxproj|D:\\lap_trinh_c\\ham_qsort\\ham_qsort\\ham_qsort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{70813342-1AEF-48A8-B471-939D26F5FC17}|ham_qsort\\ham_qsort.vcxproj|solutionrelative:ham_qsort\\ham_qsort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ham_qsort.cpp",
+              "DocumentMoniker": "D:\\lap_trinh_c\\ham_qsort\\ham_qsort\\ham_qsort.cpp",
+              "RelativeDocumentMoniker": "ham_qsort\\ham_qsort.cpp",
+              "ToolTip": "D:\\lap_trinh_c\\ham_qsort\\ham_qsort\\ham_qsort.cpp",
+              "RelativeToolTip": "ham_qsort\\ham_qsort.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-03T15:25:55.143Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

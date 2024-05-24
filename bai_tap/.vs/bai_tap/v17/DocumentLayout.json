@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\lap_trinh_c\\bai_tap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66E7D365-6C81-477F-8BCF-4DD5FD9A236B}|bai_tap\\bai_tap.vcxproj|D:\\lap_trinh_c\\bai_tap\\bai_tap\\bai_10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{66E7D365-6C81-477F-8BCF-4DD5FD9A236B}|bai_tap\\bai_tap.vcxproj|solutionrelative:bai_tap\\bai_10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E7D365-6C81-477F-8BCF-4DD5FD9A236B}|bai_tap\\bai_tap.vcxproj|D:\\lap_trinh_c\\bai_tap\\bai_tap\\bai_9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{66E7D365-6C81-477F-8BCF-4DD5FD9A236B}|bai_tap\\bai_tap.vcxproj|solutionrelative:bai_tap\\bai_9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "bai_10.cpp",
+              "DocumentMoniker": "D:\\lap_trinh_c\\bai_tap\\bai_tap\\bai_10.cpp",
+              "RelativeDocumentMoniker": "bai_tap\\bai_10.cpp",
+              "ToolTip": "D:\\lap_trinh_c\\bai_tap\\bai_tap\\bai_10.cpp",
+              "RelativeToolTip": "bai_tap\\bai_10.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-11T15:32:53.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "bai_9.cpp",
+              "DocumentMoniker": "D:\\lap_trinh_c\\bai_tap\\bai_tap\\bai_9.cpp",
+              "RelativeDocumentMoniker": "bai_tap\\bai_9.cpp",
+              "ToolTip": "D:\\lap_trinh_c\\bai_tap\\bai_tap\\bai_9.cpp",
+              "RelativeToolTip": "bai_tap\\bai_9.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-11T15:25:27.079Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

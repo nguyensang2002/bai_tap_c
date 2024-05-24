@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\lap_trinh_c\\cau_truc_struct\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{676E5097-D3DB-4C18-B47F-B89BCA6C95CB}|cau_truc_struct\\cau_truc_struct.vcxproj|D:\\lap_trinh_c\\cau_truc_struct\\cau_truc_struct\\cau_truc_struct.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{676E5097-D3DB-4C18-B47F-B89BCA6C95CB}|cau_truc_struct\\cau_truc_struct.vcxproj|solutionrelative:cau_truc_struct\\cau_truc_struct.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{676E5097-D3DB-4C18-B47F-B89BCA6C95CB}|cau_truc_struct\\cau_truc_struct.vcxproj|C:\\PROGRAM FILES (X86)\\WINDOWS KITS\\10\\INCLUDE\\10.0.22621.0\\UCRT\\STDIO.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "stdio.h",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
+              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
+              "ViewState": "AQIAAHkCAAAAAAAAAAAwwIUCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-08T03:41:21.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "cau_truc_struct.cpp",
+              "DocumentMoniker": "D:\\lap_trinh_c\\cau_truc_struct\\cau_truc_struct\\cau_truc_struct.cpp",
+              "RelativeDocumentMoniker": "cau_truc_struct\\cau_truc_struct.cpp",
+              "ToolTip": "D:\\lap_trinh_c\\cau_truc_struct\\cau_truc_struct\\cau_truc_struct.cpp",
+              "RelativeToolTip": "cau_truc_struct\\cau_truc_struct.cpp",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-08T03:11:08.309Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

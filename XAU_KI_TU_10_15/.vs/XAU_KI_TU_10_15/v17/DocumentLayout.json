@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\lap_trinh_c\\XAU_KI_TU_10_15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{792A8864-BE81-4CA1-B82F-C438F0EE791A}|XAU_KI_TU_10_15\\XAU_KI_TU_10_15.vcxproj|D:\\lap_trinh_c\\XAU_KI_TU_10_15\\XAU_KI_TU_10_15\\bai_14.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{792A8864-BE81-4CA1-B82F-C438F0EE791A}|XAU_KI_TU_10_15\\XAU_KI_TU_10_15.vcxproj|solutionrelative:XAU_KI_TU_10_15\\bai_14.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{792A8864-BE81-4CA1-B82F-C438F0EE791A}|XAU_KI_TU_10_15\\XAU_KI_TU_10_15.vcxproj|D:\\lap_trinh_c\\XAU_KI_TU_10_15\\XAU_KI_TU_10_15\\bai_13.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{792A8864-BE81-4CA1-B82F-C438F0EE791A}|XAU_KI_TU_10_15\\XAU_KI_TU_10_15.vcxproj|solutionrelative:XAU_KI_TU_10_15\\bai_13.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{792A8864-BE81-4CA1-B82F-C438F0EE791A}|XAU_KI_TU_10_15\\XAU_KI_TU_10_15.vcxproj|D:\\lap_trinh_c\\XAU_KI_TU_10_15\\XAU_KI_TU_10_15\\bai_12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{792A8864-BE81-4CA1-B82F-C438F0EE791A}|XAU_KI_TU_10_15\\XAU_KI_TU_10_15.vcxproj|solutionrelative:XAU_KI_TU_10_15\\bai_12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{792A8864-BE81-4CA1-B82F-C438F0EE791A}|XAU_KI_TU_10_15\\XAU_KI_TU_10_15.vcxproj|D:\\lap_trinh_c\\XAU_KI_TU_10_15\\XAU_KI_TU_10_15\\bai_11_cach_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{792A8864-BE81-4CA1-B82F-C438F0EE791A}|XAU_KI_TU_10_15\\XAU_KI_TU_10_15.vcxproj|solutionrelative:XAU_KI_TU_10_15\\bai_11_cach_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{792A8864-BE81-4CA1-B82F-C438F0EE791A}|XAU_KI_TU_10_15\\XAU_KI_TU_10_15.vcxproj|D:\\lap_trinh_c\\XAU_KI_TU_10_15\\XAU_KI_TU_10_15\\bai_11_cach_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{792A8864-BE81-4CA1-B82F-C438F0EE791A}|XAU_KI_TU_10_15\\XAU_KI_TU_10_15.vcxproj|solutionrelative:XAU_KI_TU_10_15\\bai_11_cach_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{792A8864-BE81-4CA1-B82F-C438F0EE791A}|XAU_KI_TU_10_15\\XAU_KI_TU_10_15.vcxproj|D:\\lap_trinh_c\\XAU_KI_TU_10_15\\XAU_KI_TU_10_15\\bai_15.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{792A8864-BE81-4CA1-B82F-C438F0EE791A}|XAU_KI_TU_10_15\\XAU_KI_TU_10_15.vcxproj|solutionrelative:XAU_KI_TU_10_15\\bai_15.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "bai_11_cach_2.cpp",
+              "DocumentMoniker": "D:\\lap_trinh_c\\XAU_KI_TU_10_15\\XAU_KI_TU_10_15\\bai_11_cach_2.cpp",
+              "RelativeDocumentMoniker": "XAU_KI_TU_10_15\\bai_11_cach_2.cpp",
+              "ToolTip": "D:\\lap_trinh_c\\XAU_KI_TU_10_15\\XAU_KI_TU_10_15\\bai_11_cach_2.cpp",
+              "RelativeToolTip": "XAU_KI_TU_10_15\\bai_11_cach_2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-13T06:25:30.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "bai_11_cach_1.cpp",
+              "DocumentMoniker": "D:\\lap_trinh_c\\XAU_KI_TU_10_15\\XAU_KI_TU_10_15\\bai_11_cach_1.cpp",
+              "RelativeDocumentMoniker": "XAU_KI_TU_10_15\\bai_11_cach_1.cpp",
+              "ToolTip": "D:\\lap_trinh_c\\XAU_KI_TU_10_15\\XAU_KI_TU_10_15\\bai_11_cach_1.cpp",
+              "RelativeToolTip": "XAU_KI_TU_10_15\\bai_11_cach_1.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-13T06:25:23.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "bai_15.cpp",
+              "DocumentMoniker": "D:\\lap_trinh_c\\XAU_KI_TU_10_15\\XAU_KI_TU_10_15\\bai_15.cpp",
+              "RelativeDocumentMoniker": "XAU_KI_TU_10_15\\bai_15.cpp",
+              "ToolTip": "D:\\lap_trinh_c\\XAU_KI_TU_10_15\\XAU_KI_TU_10_15\\bai_15.cpp",
+              "RelativeToolTip": "XAU_KI_TU_10_15\\bai_15.cpp",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAswCEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-12T16:49:12.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "bai_14.cpp",
+              "DocumentMoniker": "D:\\lap_trinh_c\\XAU_KI_TU_10_15\\XAU_KI_TU_10_15\\bai_14.cpp",
+              "RelativeDocumentMoniker": "XAU_KI_TU_10_15\\bai_14.cpp",
+              "ToolTip": "D:\\lap_trinh_c\\XAU_KI_TU_10_15\\XAU_KI_TU_10_15\\bai_14.cpp",
+              "RelativeToolTip": "XAU_KI_TU_10_15\\bai_14.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-12T16:35:47.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "bai_13.cpp",
+              "DocumentMoniker": "D:\\lap_trinh_c\\XAU_KI_TU_10_15\\XAU_KI_TU_10_15\\bai_13.cpp",
+              "RelativeDocumentMoniker": "XAU_KI_TU_10_15\\bai_13.cpp",
+              "ToolTip": "D:\\lap_trinh_c\\XAU_KI_TU_10_15\\XAU_KI_TU_10_15\\bai_13.cpp",
+              "RelativeToolTip": "XAU_KI_TU_10_15\\bai_13.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-12T16:09:31.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "bai_12.cpp",
+              "DocumentMoniker": "D:\\lap_trinh_c\\XAU_KI_TU_10_15\\XAU_KI_TU_10_15\\bai_12.cpp",
+              "RelativeDocumentMoniker": "XAU_KI_TU_10_15\\bai_12.cpp",
+              "ToolTip": "D:\\lap_trinh_c\\XAU_KI_TU_10_15\\XAU_KI_TU_10_15\\bai_12.cpp",
+              "RelativeToolTip": "XAU_KI_TU_10_15\\bai_12.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-12T15:24:59.08Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

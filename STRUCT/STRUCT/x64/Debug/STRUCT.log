@@ -1,0 +1,74 @@
+﻿  STRUCT.cpp
+D:\lap_trinh_c\STRUCT\STRUCT\STRUCT.cpp(60,12): warning C4477: 'printf' : format string '%ld' requires an argument of type 'long', but variadic argument 2 has type 'size_t'
+  D:\lap_trinh_c\STRUCT\STRUCT\STRUCT.cpp(60,12):
+  consider using '%zd' in the format string
+  
+D:\lap_trinh_c\STRUCT\STRUCT\STRUCT.cpp(61,12): warning C4477: 'printf' : format string '%ld' requires an argument of type 'long', but variadic argument 2 has type 'size_t'
+  D:\lap_trinh_c\STRUCT\STRUCT\STRUCT.cpp(61,12):
+  consider using '%zd' in the format string
+  
+D:\lap_trinh_c\STRUCT\STRUCT\STRUCT.cpp(62,12): warning C4477: 'printf' : format string '%ld' requires an argument of type 'long', but variadic argument 2 has type 'size_t'
+  D:\lap_trinh_c\STRUCT\STRUCT\STRUCT.cpp(62,12):
+  consider using '%zd' in the format string
+  
+D:\lap_trinh_c\STRUCT\STRUCT\STRUCT.cpp(63,12): warning C4477: 'printf' : format string '%ld' requires an argument of type 'long', but variadic argument 2 has type 'size_t'
+  D:\lap_trinh_c\STRUCT\STRUCT\STRUCT.cpp(63,12):
+  consider using '%zd' in the format string
+  
+D:\lap_trinh_c\STRUCT\STRUCT\STRUCT.cpp(64,12): warning C4477: 'printf' : format string '%ld' requires an argument of type 'long', but variadic argument 2 has type 'size_t'
+  D:\lap_trinh_c\STRUCT\STRUCT\STRUCT.cpp(64,12):
+  consider using '%zd' in the format string
+  
+D:\lap_trinh_c\STRUCT\STRUCT\STRUCT.cpp(65,12): warning C4477: 'printf' : format string '%ld' requires an argument of type 'long', but variadic argument 2 has type 'size_t'
+  D:\lap_trinh_c\STRUCT\STRUCT\STRUCT.cpp(65,12):
+  consider using '%zd' in the format string
+  
+D:\lap_trinh_c\STRUCT\STRUCT\STRUCT.cpp(67,12): warning C4477: 'printf' : format string '%ld' requires an argument of type 'long', but variadic argument 2 has type 'size_t'
+  D:\lap_trinh_c\STRUCT\STRUCT\STRUCT.cpp(67,12):
+  consider using '%zd' in the format string
+  
+D:\lap_trinh_c\STRUCT\STRUCT\STRUCT.cpp(68,12): warning C4477: 'printf' : format string '%ld' requires an argument of type 'long', but variadic argument 2 has type 'size_t'
+  D:\lap_trinh_c\STRUCT\STRUCT\STRUCT.cpp(68,12):
+  consider using '%zd' in the format string
+  
+D:\lap_trinh_c\STRUCT\STRUCT\STRUCT.cpp(75,12): warning C4477: 'printf' : format string '%ld' requires an argument of type 'long', but variadic argument 2 has type 'size_t'
+  D:\lap_trinh_c\STRUCT\STRUCT\STRUCT.cpp(75,12):
+  consider using '%zd' in the format string
+  
+D:\lap_trinh_c\STRUCT\STRUCT\STRUCT.cpp(76,12): warning C4477: 'printf' : format string '%ld' requires an argument of type 'long', but variadic argument 2 has type 'size_t'
+  D:\lap_trinh_c\STRUCT\STRUCT\STRUCT.cpp(76,12):
+  consider using '%zd' in the format string
+  
+D:\lap_trinh_c\STRUCT\STRUCT\STRUCT.cpp(77,12): warning C4477: 'printf' : format string '%ld' requires an argument of type 'long', but variadic argument 2 has type 'size_t'
+  D:\lap_trinh_c\STRUCT\STRUCT\STRUCT.cpp(77,12):
+  consider using '%zd' in the format string
+  
+D:\lap_trinh_c\STRUCT\STRUCT\STRUCT.cpp(94,56): warning C4311: 'type cast': pointer truncation from 'stu_h *' to 'long'
+D:\lap_trinh_c\STRUCT\STRUCT\STRUCT.cpp(94,56): warning C4302: 'type cast': truncation from 'stu_h *' to 'long'
+D:\lap_trinh_c\STRUCT\STRUCT\STRUCT.cpp(94,69): warning C4311: 'type cast': pointer truncation from 'stu_g *' to 'long'
+D:\lap_trinh_c\STRUCT\STRUCT\STRUCT.cpp(94,69): warning C4302: 'type cast': truncation from 'stu_g *' to 'long'
+D:\lap_trinh_c\STRUCT\STRUCT\STRUCT.cpp(97,57): warning C4311: 'type cast': pointer truncation from 'stu_f *' to 'long'
+D:\lap_trinh_c\STRUCT\STRUCT\STRUCT.cpp(97,57): warning C4302: 'type cast': truncation from 'stu_f *' to 'long'
+D:\lap_trinh_c\STRUCT\STRUCT\STRUCT.cpp(97,71): warning C4311: 'type cast': pointer truncation from 'stu_h *' to 'long'
+D:\lap_trinh_c\STRUCT\STRUCT\STRUCT.cpp(97,71): warning C4302: 'type cast': truncation from 'stu_h *' to 'long'
+D:\lap_trinh_c\STRUCT\STRUCT\STRUCT.cpp(100,58): warning C4311: 'type cast': pointer truncation from 'stu_f *' to 'long'
+D:\lap_trinh_c\STRUCT\STRUCT\STRUCT.cpp(100,58): warning C4302: 'type cast': truncation from 'stu_f *' to 'long'
+D:\lap_trinh_c\STRUCT\STRUCT\STRUCT.cpp(100,72): warning C4311: 'type cast': pointer truncation from 'stu_f *' to 'long'
+D:\lap_trinh_c\STRUCT\STRUCT\STRUCT.cpp(100,72): warning C4302: 'type cast': truncation from 'stu_f *' to 'long'
+D:\lap_trinh_c\STRUCT\STRUCT\STRUCT.cpp(103,57): warning C4311: 'type cast': pointer truncation from 'int *' to 'long'
+D:\lap_trinh_c\STRUCT\STRUCT\STRUCT.cpp(103,57): warning C4302: 'type cast': truncation from 'int *' to 'long'
+D:\lap_trinh_c\STRUCT\STRUCT\STRUCT.cpp(103,70): warning C4311: 'type cast': pointer truncation from 'stu_f *' to 'long'
+D:\lap_trinh_c\STRUCT\STRUCT\STRUCT.cpp(103,70): warning C4302: 'type cast': truncation from 'stu_f *' to 'long'
+D:\lap_trinh_c\STRUCT\STRUCT\STRUCT.cpp(104,56): warning C4311: 'type cast': pointer truncation from 'int *' to 'long'
+D:\lap_trinh_c\STRUCT\STRUCT\STRUCT.cpp(104,56): warning C4302: 'type cast': truncation from 'int *' to 'long'
+D:\lap_trinh_c\STRUCT\STRUCT\STRUCT.cpp(104,69): warning C4311: 'type cast': pointer truncation from 'stu_g *' to 'long'
+D:\lap_trinh_c\STRUCT\STRUCT\STRUCT.cpp(104,69): warning C4302: 'type cast': truncation from 'stu_g *' to 'long'
+D:\lap_trinh_c\STRUCT\STRUCT\STRUCT.cpp(107,56): warning C4311: 'type cast': pointer truncation from 'long *' to 'long'
+D:\lap_trinh_c\STRUCT\STRUCT\STRUCT.cpp(107,56): warning C4302: 'type cast': truncation from 'long *' to 'long'
+D:\lap_trinh_c\STRUCT\STRUCT\STRUCT.cpp(107,69): warning C4311: 'type cast': pointer truncation from 'int *' to 'long'
+D:\lap_trinh_c\STRUCT\STRUCT\STRUCT.cpp(107,69): warning C4302: 'type cast': truncation from 'int *' to 'long'
+D:\lap_trinh_c\STRUCT\STRUCT\STRUCT.cpp(108,56): warning C4311: 'type cast': pointer truncation from 'long *' to 'long'
+D:\lap_trinh_c\STRUCT\STRUCT\STRUCT.cpp(108,56): warning C4302: 'type cast': truncation from 'long *' to 'long'
+D:\lap_trinh_c\STRUCT\STRUCT\STRUCT.cpp(108,69): warning C4311: 'type cast': pointer truncation from 'stu_h *' to 'long'
+D:\lap_trinh_c\STRUCT\STRUCT\STRUCT.cpp(108,69): warning C4302: 'type cast': truncation from 'stu_h *' to 'long'
+  STRUCT.vcxproj -> D:\lap_trinh_c\STRUCT\x64\Debug\STRUCT.exe
